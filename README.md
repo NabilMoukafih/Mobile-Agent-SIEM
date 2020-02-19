@@ -7,7 +7,7 @@ standardization process using mobile agents.
 
 I will add more details pretty soon..
 
-Please consider citing the paper:
+## Please consider citing the paper:
 
  Moukafih, N., Orhanou, G. and Elhajji, S. (2019), "Mobile agent-based SIEM for event collection and normalization 
  externalization", Information & Computer Security, Vol. ahead-of-print No. ahead-of-print. 
