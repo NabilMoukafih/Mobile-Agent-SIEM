@@ -1,11 +1,11 @@
 # Mobile-Agent-SIEM
 a Mobile Agent-based SIEM for event normalization.
 
-The following classes are snapshots of the code using to propose a mobile agent-based SIEM systems for event normalization. 
-The implementation was done in JADE (Java Agent DEvelopment Framework) to propose a multi-agent system that executes the 
-normaliztion process using mobile agents.
+The following Java classes are snapshots of the code used to provide mobile agent-based SIEM systems for event normalization.
+The implementation was done using JADE (Java Agent DEvelopment Framework) to propose a multi-agent system which executes the
+standardization process using mobile agents.
 
-I will add more details soon..
+I will add more details pretty soon..
 
 Please consider citing the paper:
 
